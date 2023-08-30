@@ -1,0 +1,7 @@
+Rincian materi FS WEB - MSIB 5
+1. Web Design ( HTML,CSS,JS)
+2. UI/UX
+3. GIT/GITHUB
+4. MY SQL
+5. PHP
+6. LARAVEL
